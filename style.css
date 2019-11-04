@@ -1,0 +1,95 @@
+H1 {
+    color:#0c05eb;
+    margin:0
+}
+P {
+    color:black;
+}
+img {
+    height:300px;
+}
+body {
+    background-color:#e89f3f;
+    font-family:'Cormorant Garamond', serif;
+    margin:0
+}
+h1, h2, h3 {
+    font-family:'Marck Script', cursive;
+}
+.navbar {
+    background-color:#e89f3f;
+    overflow:auto;
+}
+#nav a {
+    color:#ff4d4d;
+    float: right;
+    margin-right: 200px;
+    margin-bottom:10px #nav a:hover {
+        color:blue;
+    }
+}
+#nav h3 {
+    display: inline-block;
+    margin:bottom;
+    10px margin:left;
+    10px;
+}
+.landing {
+    background-image:url('https://images.unsplash.com/photo-1474922651267-219b23864ae8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60');
+    background-repeat:repeat;
+    background-size:cover;
+    background-position:center;
+    text-align:center;
+    height:100vh;
+    padding:30px
+}
+.work {
+    background-color:#e89f3f;
+    height: 500px;
+}
+.project-card {
+    height: 300px;
+    width: 33.33%;
+    background-color: blue;
+    float: left;
+    text-align: center;
+}
+img {
+    height: 175px;
+}
+#project-one {
+    background-color: red;
+}
+#project-two {
+    background-color: white;
+}
+#project-three {
+    background-color: blue;
+}
+.project-onee {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30%
+}
+.project-twoo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%
+}
+.project-threee {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30%
+}
+h1 {
+    text-shadow: 4px 0px 0px rgba(255, 233, 42, 1);
+}
+#work h2 {
+    text-shadow: -3px -3px 0px rgba(255, 68, 65, 1);
+}
+#news h2 {
+    text-shadow: -3px -3px 0px rgba(0, 255, 254, 1);
+}
